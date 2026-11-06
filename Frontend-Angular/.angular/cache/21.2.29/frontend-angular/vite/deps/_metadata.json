@@ -1,0 +1,40 @@
+{
+  "hash": "83da5e65",
+  "configHash": "2b5ab528",
+  "lockfileHash": "a78f361a",
+  "browserHash": "7ad3b388",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "e2662c08",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "39a06dec",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "e1e750f7",
+      "needsInterop": false
+    },
+    "@lucide/angular": {
+      "src": "../../../../../../node_modules/@lucide/angular/fesm2022/lucide-angular.mjs",
+      "file": "@lucide_angular.js",
+      "fileHash": "327cee54",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-OXXRVVTR": {
+      "file": "chunk-OXXRVVTR.js"
+    },
+    "chunk-VKKTKCM2": {
+      "file": "chunk-VKKTKCM2.js"
+    }
+  }
+}
